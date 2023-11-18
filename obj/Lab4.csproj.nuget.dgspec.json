@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\Lab4.csproj": {}
+    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\OOP-Lab4\\Lab4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\Lab4.csproj": {
+    "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\OOP-Lab4\\Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\Lab4.csproj",
+        "projectUniqueName": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\OOP-Lab4\\Lab4.csproj",
         "projectName": "Lab4",
-        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\Lab4.csproj",
+        "projectPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\OOP-Lab4\\Lab4.csproj",
         "packagesPath": "C:\\Users\\userlenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\obj\\",
+        "outputPath": "C:\\Users\\userlenovo\\Desktop\\Моє навчання\\Програмування\\Другий курс\\CSharp\\Lab4\\OOP-Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\userlenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
